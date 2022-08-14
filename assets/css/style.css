@@ -22,10 +22,9 @@ header {
     font-size: 20px;
 }
 
-nav{
-    justify-content: baseline;
+nav {
+    float:right;
 }
-
 
 a {
     color: #ffffff;
@@ -41,7 +40,6 @@ img {
     height: auto;
     width: 100%;
     border-radius: 4px;
-
 }
 
 .float-left {
